@@ -1,6 +1,6 @@
 {
   "imports": {
-    "@portal-app/root-config": "",
+    "@portal-app/root-config": "https://github.com/profanapaulacostacurta/single-spa/blob/main/portal-app/src/com-root-config.js",
     "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.9.0/lib/system/single-spa.min.js",
     "react": "https://cdn.jsdelivr.net/npm/react@18.2.0/umd/react.development.js",
     "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@18.2.0/index.min.js",
